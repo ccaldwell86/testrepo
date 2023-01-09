@@ -1,2 +1,2 @@
-# testrepo
+# test2repo
 sample
